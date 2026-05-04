@@ -7,7 +7,7 @@ Using Pandas, I explored the dataset, cleaned the data, and generated insights t
 
 ---
 
-## 🎯 Aim
+##  Aim
 
 To analyze e-commerce sales data and extract meaningful insights about revenue, customer behavior, and product performance.
 
